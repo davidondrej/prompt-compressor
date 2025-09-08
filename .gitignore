@@ -45,10 +45,12 @@ env/
 # Project specific
 *.compressed.md
 original-prompt.compressed.md
+original-prompt.md
 *.compressed.txt
 output/
 temp/
 tmp/
+previous_attempts/
 
 # Logs
 *.log
