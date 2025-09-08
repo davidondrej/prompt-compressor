@@ -1,0 +1,2 @@
+openai>=1.35.0
+tiktoken>=0.5.2
